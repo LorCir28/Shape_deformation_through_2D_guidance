@@ -1,0 +1,11 @@
+ToDo
+- cercare misura di comparazione tra la mesh ottenuta e la mesh delle guidances
+- modificare codice (se avanza tempo)
+
+
+
+Experiments
+- varie reti (senza rete, rete piccola, rete grande)
+- varie loss
+- differenti optimizer
+- differenti learning rate
