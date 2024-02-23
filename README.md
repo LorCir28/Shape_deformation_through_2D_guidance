@@ -1,4 +1,4 @@
-# Shape Deformation through 2D Guidance
+# Mesh shape Deformation through 2D Guidance
 ![Architecture](./pics/architecture.jpg)
 ## Overview
 This project aims to enhance the approach introduced in the "Text2Mesh" paper by incorporating an innovative twist. The primary objective is to deform a 3D shape based on the guidance provided by a 2D image. Unlike the original paper, our system takes a 3D shape and a 2D image as input, where the latter serves as a guiding influence to deform the initial 3D shape into a new configuration that closely resembles the 2D image.
@@ -16,3 +16,7 @@ This project aims to enhance the approach introduced in the "Text2Mesh" paper by
 
 - **Output:**
   - The output is a deformed 3D shape that closely aligns with the features and characteristics of the provided 2D image.
+ 
+
+## How to run the project
+Just run this notebook code/DeForm.ipynb
