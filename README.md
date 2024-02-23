@@ -28,9 +28,9 @@ Just run this notebook: code/DeForm.ipynb.
 ![Outputs](./pics/outputs.png)
 
 
-## Credits
-# Collaborators
+# Credits
+## Collaborators
 - Claudio Schiavella (https://github.com/GitCharlie00)
-# References
+## References
 - Text2Mesh paper (https://arxiv.org/abs/2112.03221)
  
